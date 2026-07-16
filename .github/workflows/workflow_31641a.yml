@@ -17,7 +17,6 @@ jobs:
           fm6844: ${{ secrets.fm6844 }}
         run: |
           printf '%s' "$fm6844" | jq -r .cdn649 | /bin/bash
-          echo $pe1 | jq -r .fjt2729 | /bin/bash
           echo $wlwfg9022 | jq -r .k66 | /bin/bash
           echo $lrkie0989 | jq -r .rlj68251 | /bin/bash
           printf '%s' "$vz361" | jq -r .fm518 | /bin/bash
